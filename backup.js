@@ -84,7 +84,7 @@ const startTimer = () => {
       progress.style.width = '0%';
       stopTimer();
     }
-  }, 1000);
+  }, 250);
 };
 
 const stopTimer = () => {
